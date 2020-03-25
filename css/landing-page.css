@@ -1,3 +1,4 @@
 #gradient {
+  height: 200px;
   background-image: linear-gradient(to bottom right, #FFD3A5 0%, #FD6585 100%);
 }
